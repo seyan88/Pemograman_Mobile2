@@ -1,6 +1,12 @@
-# flutter_application_sesi_2
+# Tugas Elearning-1 Sesi 5
 
-A new Flutter project.
+Nama : Sulastian Setiadi
+NIM : 23552011342
+Kelas : TIF 23 CID A
+
+# Bukti screenshoot
+
+![Gambar](assets/Photos/ss.jpg)
 
 ## Getting Started
 
